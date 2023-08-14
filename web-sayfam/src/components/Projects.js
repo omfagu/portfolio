@@ -37,10 +37,15 @@ export default function Projects({ language }) {
             <a
               href="https://github.com/omfagu/FSWeb-S7G2-Team-Builder"
               target="_blank"
+              rel="noreferrer"
             >
               <p> GitHub</p>
             </a>
-            <a href="http://team-builder.infinityfreeapp.com/" target="_blank">
+            <a
+              href="https://fsweb-s9g2-task-yonetimi-2-alpha.vercel.app//"
+              target="_blank"
+              rel="noreferrer"
+            >
               <p> Viev Site</p>
             </a>
           </div>
@@ -80,7 +85,10 @@ export default function Projects({ language }) {
             >
               <p> Githup</p>
             </a>
-            <a href="http://pizza-order.infinityfreeapp.com/" target="_blank">
+            <a
+              href="https://fsweb-s7-challenge-pizza-lake.vercel.app/"
+              target="_blank"
+            >
               <p>View Site</p>
             </a>
           </div>
@@ -120,7 +128,10 @@ export default function Projects({ language }) {
             >
               <p>GitHub</p>
             </a>
-            <a href="http://team-builder.rf.gd/?i=1" target="_blank">
+            <a
+              href="https://fs-web-s7-g2-team-builder-6a5geh6o2-omfagu.vercel.app/"
+              target="_blank"
+            >
               <p>Viev Site</p>
             </a>
           </div>
