@@ -35,7 +35,7 @@ export default function Projects({ language }) {
           </div>
           <div className="details">
             <a
-              href="https://github.com/omfagu/FSWeb-S7G2-Team-Builder"
+              href="https://github.com/omfagu/fsweb-s9g2-task-yonetimi-2"
               target="_blank"
               rel="noreferrer"
             >
